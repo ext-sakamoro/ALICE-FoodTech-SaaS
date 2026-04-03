@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_FOODTECH
+name: alice-foodtech
 description: ALICE FoodTech
 type: application
 version: 0.1.0
